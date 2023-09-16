@@ -1,0 +1,27 @@
+---
+id: 80075749
+name: Bubble Illusion
+type: Spell Card
+frameType: spell
+desc: You can only activate this card while there is a face-up "Elemental Hero Bubbleman"
+  on your side of the field. During this turn, you can activate 1 Trap Card from your
+  hand.
+race: Quick-Play
+archetype: Elemental HERO
+card_sets:
+- set_name: 'Duelist Pack: Jaden Yuki'
+  set_code: DP1-EN024
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '6.87'
+card_images:
+- id: 80075749
+  image_url: https://images.ygoprodeck.com/images/cards/80075749.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/80075749.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/80075749.jpg
+card_prices:
+- cardmarket_price: '0.53'
+  tcgplayer_price: '4.07'
+  ebay_price: '7.45'
+  amazon_price: '16.79'
+  coolstuffinc_price: '7.99'
